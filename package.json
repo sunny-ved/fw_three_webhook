@@ -5,12 +5,12 @@
   "main": "index.js",
   "scripts": {
     "dev": "node --watch index.js"
-    
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
